@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "毒舌求职顾问网页版完成"
+git branch -M main
+git remote add origin [粘贴你刚才在 GitHub 网页上复制的那个 .git 链接]
+git push -u origin main
